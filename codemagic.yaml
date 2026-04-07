@@ -6,8 +6,6 @@ workflows:
     environment:
       flutter: stable
       ios_signing:
-        distribution_type: app_store
-        bundle_identifier: com.moneim.wallpaper4k
         provisioning_profiles:
           - Provisioning_walpaper
         certificates:
