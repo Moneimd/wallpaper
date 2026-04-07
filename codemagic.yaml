@@ -24,3 +24,8 @@ workflows:
         notify:
           success: true
           failure: true
+      app_store_connect:
+        api_key: 3LNX877CUW
+        key_id: 3LNX877CUW
+        issuer_id: 69d0574ed9c38f74082119d3
+        submit_to_testflight: true
