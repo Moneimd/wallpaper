@@ -1,8 +1,6 @@
 workflows:
   testFlight:
     name: hassous
-    integrations:
-      app_store_connect: Hassous Abdelmounaim
     environment:
       flutter: stable
       ios_signing:
@@ -26,5 +24,3 @@ workflows:
         notify:
           success: true
           failure: true
-      app_store_connect:
-        auth: integration
