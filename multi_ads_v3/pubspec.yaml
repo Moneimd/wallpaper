@@ -1,0 +1,29 @@
+name: multi_ads
+description: A new Flutter package project.
+version: 0.0.1
+homepage: github.com/mzarhou/multi_ads
+publish_to: none
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+  flutter: ">=3.16.0"
+
+dependencies:
+  facebook_audience_network: ^1.0.1
+  flutter:
+    sdk: flutter
+  applovin_max: ^4.5.0
+  flutter_ironsource_x: ^2.7.2
+  google_mobile_ads: ^5.3.0
+  # native_admob_flutter:
+  #   git:
+  #     url: https://github.com/mondongxr/native_admob_flutter
+  #     ref: bfe81a5
+  # unity_ads_plugin: ^0.2.4
+
+dev_dependencies:
+  flutter_lints: ^1.0.0
+  flutter_test:
+    sdk: flutter
+
+flutter: null

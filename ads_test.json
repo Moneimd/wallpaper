@@ -1,0 +1,66 @@
+{"ads": {
+	"admob": {
+		"openAdsIds": "ca-app-pub-3940256099942544/9257395921",
+		"bannerIds": [
+			"ca-app-pub-6550578264268614/1478539136"
+		],
+		"interIds": [
+			"ca-app-pub-3940256099942544/1033173712"
+		],
+		"nativeIds": [
+			"ca-app-pub-6550578264268614/7905999071"
+		],
+		"rewardIds": [
+			"ca-app-pub-3940256099942544/5224354917"
+		]
+	},
+	"applovin": {
+		"sdk_key": "",
+		"bannerId": "",
+		"interId": "40a9b25969e5e629",
+		"nativeId": "43e21bcddec13181",
+		"rewardId": "42fda58804fc7b6c"
+	},
+	"ironsource": {
+		"appkey": ""
+	},
+	"unity": {
+		"gameId": "",
+		"bannerIds": [
+			""
+		],
+		"interIds": [
+			"interben10"
+		],
+		"rewardIds": [
+			"rerded"
+		]
+	},
+	"fan": {
+		"bannerIds": [
+			""
+		],
+		"interIds": [
+			""
+		],
+		"rewardIds": [
+			""
+		],
+		"nativeIds": [
+			"242093507995884_242094957995739"
+		]
+	},
+	"settings": {
+    "banners": [],
+    "inters": [],
+    "nativees": [],
+    "rewards": []
+}
+},
+"config": {
+	"package": "com.moneim.wallpaper4k",
+	"developer": "https://apps.apple.com/us/iphone/games",
+	"email": "hassousalmonim@gmail.com",
+	"policy": "https://sites.google.com/view/wallpaperklive/home"
+}
+}

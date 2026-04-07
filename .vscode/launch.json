@@ -1,0 +1,45 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "starter apps",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "starter apps (profile mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "starter apps (release mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "multi_ads_v3",
+            "cwd": "multi_ads_v3",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "multi_ads_v3 (profile mode)",
+            "cwd": "multi_ads_v3",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "multi_ads_v3 (release mode)",
+            "cwd": "multi_ads_v3",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
