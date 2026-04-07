@@ -1,6 +1,8 @@
 workflows:
   testFlight:
     name: hassous
+    integrations:
+      app_store_connect: codemagickey
     environment:
       flutter: stable
       ios_signing:
@@ -25,7 +27,5 @@ workflows:
           success: true
           failure: true
       app_store_connect:
-        api_key: 3LNX877CUW
-        key_id: 3LNX877CUW
-        issuer_id: f4abfcab-d9ef-4d08-bbbd-55cb291f239a
+        auth: integration
         submit_to_testflight: true
