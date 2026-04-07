@@ -1,0 +1,6 @@
+framework module applovin_max {
+  umbrella header "applovin_max-umbrella.h"
+
+  export *
+  module * { export * }
+}

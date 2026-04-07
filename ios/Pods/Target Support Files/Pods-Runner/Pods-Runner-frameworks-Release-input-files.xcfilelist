@@ -1,0 +1,11 @@
+${PODS_ROOT}/Target Support Files/Pods-Runner/Pods-Runner-frameworks.sh
+${BUILT_PRODUCTS_DIR}/flutter_downloader/flutter_downloader.framework
+${BUILT_PRODUCTS_DIR}/fluttertoast/fluttertoast.framework
+${BUILT_PRODUCTS_DIR}/gal/gal.framework
+${BUILT_PRODUCTS_DIR}/image_gallery_saver/image_gallery_saver.framework
+${BUILT_PRODUCTS_DIR}/share/share.framework
+${BUILT_PRODUCTS_DIR}/sqflite_darwin/sqflite_darwin.framework
+${BUILT_PRODUCTS_DIR}/url_launcher_ios/url_launcher_ios.framework
+${BUILT_PRODUCTS_DIR}/webview_flutter_wkwebview/webview_flutter_wkwebview.framework
+${PODS_XCFRAMEWORKS_BUILD_DIR}/AppLovinSDK/AppLovinSDK.framework/AppLovinSDK
+${PODS_XCFRAMEWORKS_BUILD_DIR}/FBAudienceNetwork/FBAudienceNetwork.framework/FBAudienceNetwork

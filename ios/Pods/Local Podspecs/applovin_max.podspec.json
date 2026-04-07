@@ -1,0 +1,30 @@
+{
+  "name": "applovin_max",
+  "authors": "AppLovin Corporation",
+  "version": "4.6.3",
+  "summary": "AppLovin MAX Flutter Plugin",
+  "description": "AppLovin MAX Flutter Plugin",
+  "homepage": "https://www.applovin.com/",
+  "license": {
+    "file": "../LICENSE"
+  },
+  "source": {
+    "path": "."
+  },
+  "source_files": "Classes/**/*",
+  "public_header_files": "Classes/**/*.h",
+  "platforms": {
+    "ios": "12.0"
+  },
+  "static_framework": true,
+  "dependencies": {
+    "Flutter": [],
+    "AppLovinSDK": [
+      "13.6.1"
+    ]
+  },
+  "pod_target_xcconfig": {
+    "DEFINES_MODULE": "YES",
+    "EXCLUDED_ARCHS[sdk=iphonesimulator*]": "i386"
+  }
+}
